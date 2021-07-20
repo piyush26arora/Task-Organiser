@@ -1,19 +1,3 @@
-# Task-Organiser
-:writing_hand: This is a **To-Do List Single Page Application** built using :
-* VanillaJS (for functionality features like Creation and Removal of Task Elements in the list)
-* HTML5 (for basic structure)
-* CSS3 (for styling and making UI attractive)
-
-:technologist: While working on this project I also used VS Code's various Extensions for my advantage and also enhanced my knowledge of these tools as a developer .
-
-Some of these Extensions were :
-* Live Server
-* JS (ES6) snippets
-* Bracket Pair Colorizer
-
-:seedling: Anyone interested in programming (especially Web Development) should definitely try out these extensions , for a nice developer experience .
-
-```javascript
     //declaring and initializing variables
 var formList = document.querySelector('form')
 var itemList = document.querySelector('.list-group-item')
@@ -73,9 +57,3 @@ function newElement(e) {
 }
 
 
-
-```
-
-:hourglass_flowing_sand: :milky_way: Lastly , I hope my application would be of some help to you all . 
-
-Thank you , happy coding :)
