@@ -77,7 +77,9 @@ function newElement(e) {
 ```
 
 :hourglass_flowing_sand: :milky_way: Lastly , I hope my application would be of some help to you all . 
-```
-URL Link : [ https://piyush26arora.github.io/TaskOrganiser ] 
-```
+
 Thank you , happy coding :)
+
+
+
+URL Link : [ https://piyush26arora.github.io/TaskOrganiser ] 
